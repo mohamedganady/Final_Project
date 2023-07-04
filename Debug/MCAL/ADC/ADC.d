@@ -1,0 +1,21 @@
+MCAL/ADC/ADC.o MCAL/ADC/ADC.o: ../MCAL/ADC/ADC.c ../MCAL/ADC/../DIO/DIO.h \
+  ../MCAL/ADC/../DIO/../../UTILS/STD_TYPES.h \
+  ../MCAL/ADC/../DIO/../../UTILS/BIT_MATH.h ../MCAL/ADC/../DIO/DIO_CFG.h \
+  ../MCAL/ADC/ADC.h ../MCAL/ADC/ADC_CFG.h \
+  ../MCAL/ADC/../../UTILS/STD_TYPES.h ../MCAL/ADC/../../UTILS/BIT_MATH.h
+
+../MCAL/ADC/../DIO/DIO.h:
+
+../MCAL/ADC/../DIO/../../UTILS/STD_TYPES.h:
+
+../MCAL/ADC/../DIO/../../UTILS/BIT_MATH.h:
+
+../MCAL/ADC/../DIO/DIO_CFG.h:
+
+../MCAL/ADC/ADC.h:
+
+../MCAL/ADC/ADC_CFG.h:
+
+../MCAL/ADC/../../UTILS/STD_TYPES.h:
+
+../MCAL/ADC/../../UTILS/BIT_MATH.h:
